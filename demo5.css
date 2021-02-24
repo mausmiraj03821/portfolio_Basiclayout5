@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.pheader {
+    padding: 50px;
+}
+
+.p {
+    padding: 15px;
+}
+
+.ptb {
+    padding: 10px 0px;
+}
+
+.pcontentbox {
+    padding: 0px 10px;
+}
+
+.bg1 {
+    background-color: black;
+}
+
+.bg2 {
+    background-color: rgb(31, 29, 29);
+}
+
+.bg3 {
+    background-color: #80808066;
+}
+
+.textcolororange {
+    color: orange;
+}
+
+.borderbottom {
+    border-bottom: 1px solid#8080808a;
+}
+
+.libbottom {
+    border-bottom: 1px dotted;
+}
+
+.mt {
+    margin: 20px 0px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.pb {
+    padding-bottom: 10px;
+    color: #8080808a;
+}
+
+.fsize {
+    font-size: 40px;
+}
+
+.box-1 {
+    margin-top: -25px;
+}
+
+.box-2 {
+    width: 30%;
+    height: 300px;
+}
+
+.box-3 {
+    width: 67%;
+}
+
+.innerbox {
+    width: 300px;
+    margin-right: 14px;
+}
+
+.innerbox-1 {
+    width: 200px;
+    margin-right: 36px;
+}
+
+.textcolor {
+    color: gray;
+}
+
+.tjustyfy {
+    text-align: justify;
+}
+
+.h4 {
+    font-size: 50px;
+}
+
+ul {
+    margin-top: -32px;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding: 20px 20px;
+    line-height: 10px;
+}
+
+.fright {
+    float: right;
+}
+
+.fleft {
+    float: left;
+}
+
+footer {
+    clear: both;
+}
+
+.fline {
+    padding: 20px 0px;
+}
+
+.imgp {
+    padding: 20px 20px;
+}
